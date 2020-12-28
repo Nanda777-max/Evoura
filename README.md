@@ -6,25 +6,25 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation:Windows-git bash:
 
-  git clone 
-  cd evoura
-  npm install 
+  git clone https://github.com/Nanda777-max/evoura.git\
+  cd evoura\
+  npm install\
   npm start
   
  ## For developement
   
-  git clone
-  cd evoura
-  git commit -m "commit"
+  git clone https://github.com/Nanda777-max/evoura.git\
+  cd evoura\
+  git commit -m "commit"\
   git push -u origin main
   
   
 ## Tools and Technologies used
 
-  1.React.js(Version 17.0.1)
-  2.Node.js(Version 12.16.3)
-  3.Github,git 2.26.2
-  4.Flaticon
+  1.React.js(Version 17.0.1)\
+  2.Node.js(Version 12.16.3)\
+  3.Github,git 2.26.2\
+  4.Flaticon\
   5.HTML5,CSS3,JS
   
 ## Available Scripts
