@@ -2,16 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Documentation
+# Documentation
 
-##Installation:Windows-git bash:
+## Installation:Windows-git bash:
 
   git clone 
   cd evoura
   npm install 
   npm start
   
- ##For developement
+ ## For developement
   
   git clone
   cd evoura
@@ -19,7 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   git push -u origin main
   
   
-##Tools and Technologies used
+## Tools and Technologies used
 
   1.React.js(Version 17.0.1)
   2.Node.js(Version 12.16.3)
