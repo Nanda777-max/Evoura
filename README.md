@@ -25,7 +25,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   2.Node.js(Version 12.16.3)\
   3.Github,git 2.26.2\
   4.Flaticon\
-  5.HTML5,CSS3,JS
+  5.HTML5,CSS3,SCSS,JS
   
 ## Available Scripts
 
