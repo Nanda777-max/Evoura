@@ -6,14 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation:Windows-git bash:
 
-  git clone https://github.com/Nanda777-max/evoura.git\
+  git clone https://github.com/Nanda777-max/evoura.git \
   cd evoura\
   npm install\
   npm start
   
  ## For developement
   
-  git clone https://github.com/Nanda777-max/evoura.git\
+  git clone https://github.com/Nanda777-max/evoura.git \
   cd evoura\
   git commit -m "commit"\
   git push -u origin main
