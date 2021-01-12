@@ -1,63 +1,39 @@
+$(document).ready(function(){
+    $('.menu-toggle').click(function(){
+        $('nav').toggleClass('active')
+         
+    })
+})
+$(document).ready(function(){
+    $(' .li').click(function(){
+        $('nav').toggleClass('active')
+         
+    })
+})
+ 
+     
+
+ 
 jQuery(function ($) {
 
     'use strict';
 
-    // -------------------------------------------------------------
-    // Preloader
-    // -------------------------------------------------------------
-    (function () {
-        $('#status').fadeOut();
-        $('#preloader').delay(200).fadeOut('slow');
-    }());
+    
 
 
 
     // ------------------------------------------------------------------
     // sticky menu
     // ------------------------------------------------------------------
+ 
 
-     $(window).scroll(function() {
-        if ($(this).scrollTop() >= 50) {
-            $('nav.navbar').addClass('sticky-nav');
-        }
-        else {
-            $('nav.navbar').removeClass('sticky-nav');
-        }
-    });
 
 
 
     // -------------------------------------------------------------
     // mobile menu
     // -------------------------------------------------------------
-    (function () {
-        $('button.navbar-toggle').ucOffCanvasMenu({
-        documentWrapper: '#main-wrapper',
-        contentWrapper : '.content-wrapper',
-        position       : 'uc-offcanvas-left',    // class name
-        // opener         : 'st-menu-open',            // class name
-        effect         : 'slide-along',             // class name
-        closeButton    : '#uc-mobile-menu-close-btn',
-        menuWrapper    : '.uc-mobile-menu',                 // class name below-pusher
-        documentPusher : '.uc-mobile-menu-pusher'
-        });
-    }());
-
-
-
-
-    // -------------------------------------------------------------
-    // tooltip
-    // -------------------------------------------------------------
-
-    (function () {
-
-        $('[data-toggle="tooltip"]').tooltip()
-
-    }());
-
-
-
+     
 
     // ------------------------------------------------------------------
     // jQuery for back to Top
@@ -86,5 +62,3 @@ jQuery(function ($) {
 
 
 }); // JQuery end
-
- 
